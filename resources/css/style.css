@@ -1,0 +1,26 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    background-color: black;
+}
+
+header {
+    text-align: center;
+}
+
+.Headline {
+    font-family: Verdana;
+    font-size: 3.125rem;
+    color: white;
+    text-align: center;
+    font-weight: 400;
+}
+
+a {
+    color: aquamarine;
+    font-size: 1rem;
+    font-family: Verdana;
+    font-weight: 400;
+}
