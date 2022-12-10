@@ -4,6 +4,7 @@ html {
 
 body {
     background-color: black;
+    text-align: center;
 }
 
 header {
@@ -23,4 +24,30 @@ a {
     font-size: 1rem;
     font-family: Verdana;
     font-weight: 400;
+}
+
+h2, 
+p {
+    font-family: Verdana;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 2.625rem;
+    color: white;
+}
+
+p {
+    font-size: 1.3125rem;
+    color: gray;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+    font-family: Verdana;
+}
+
+.phone {
+    margin-top: 1rem;
 }
